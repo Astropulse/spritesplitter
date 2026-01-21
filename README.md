@@ -4,6 +4,8 @@ Extract individual sprites from a sprite sheet by finding connected components o
 
 The tool writes one PNG per extracted sprite and an atlas.json describing the results. It is designed to be run directly from the command line.
 
+<img width="1152" height="512" alt="demo" src="https://github.com/user-attachments/assets/e4445866-1edf-49dd-985c-f2203d931bad" />
+
 ## How it works
 
 1. Build a per pixel foreground mask
